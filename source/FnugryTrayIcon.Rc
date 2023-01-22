@@ -1,0 +1,9 @@
+#include "FnugryTrayIcon.Inc"
+
+STRINGTABLE
+{
+   msg_err_allocwnd, "TRAY001: Error creating window"
+   msg_err_trayadd, "TRAY002: Could not allocate tray icon"
+   msg_err_traydelete, "TRAY003: Error deleteing tray icon"
+   msg_err_traymodify, "TRAY004: Could not modify tray icon"
+}
