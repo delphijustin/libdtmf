@@ -12,7 +12,7 @@
   reached then the new character is ignored, but the callback will still be called
 </p>
 <h1>Option constants</h1>
-dtmfopt_showconsole=1;//show the multimon-ng console window.
-dtmfopt_showerrors=2;//Show shellexecute errors
-dtmfopt_unsafeshutdown=4;//DONT USE! Dont attempt to shutdown multimon-ng
-dtmfopt_echo=8;//Tell you what button you pushed
+dtmfopt_showconsole=1;//show the multimon-ng console window.<br>
+dtmfopt_showerrors=2;//Show shellexecute errors<br>
+dtmfopt_unsafeshutdown=4;//DONT USE! Dont attempt to shutdown multimon-ng<br>
+dtmfopt_echo=8;//Tell you what button you pushed<br>
